@@ -1,0 +1,12 @@
+POST http://localhost:8080/users/register
+Content-Type: application/json
+
+{ "username" : "mmilovanst", "email": "mmilovan8@gmail.com", "password": "budala97" }
+
+
+###
+
+GET http://localhost:8080/transports/2
+
+###
+
